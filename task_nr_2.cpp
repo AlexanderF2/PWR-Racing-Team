@@ -1,6 +1,9 @@
 //
 // Created by alexf on 15.10.2025.
 //
+// Graham scan algorithm source: https://www.geeksforgeeks.org/dsa/convex-hull-using-graham-scan
+// Closest pair of points algorithm source: https://cp-algorithms.com/geometry/nearest_points.html
+//
 
 #include <algorithm>
 #include <cfloat>
